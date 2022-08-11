@@ -1,6 +1,6 @@
 # flutterhi
 
-Just say Hi using flutter
+Just say "hi" using flutter
 
 ## Getting Started
 
